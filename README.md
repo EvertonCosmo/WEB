@@ -1,3 +1,8 @@
+
+# Autores:
+  Everton Cosmo, Emanoel Alves
+# Implementação
+ https://github.com/EvertonCosmo/MCEletronics
 # WEB
 
 | Telas |Estado       | 
